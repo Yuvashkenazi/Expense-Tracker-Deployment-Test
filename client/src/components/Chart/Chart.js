@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import ChartBar from './ChartBar';
 import './Chart.css';
 
